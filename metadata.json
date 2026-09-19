@@ -1,0 +1,6 @@
+{
+  "name": "ONE MORE",
+  "description": "A fast-paced, polished survival arcade browser game with dynamic events, fluid controls, and responsive feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
